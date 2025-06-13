@@ -1,7 +1,8 @@
 # Build a Modern Intern Portal with React & TailwindCSS
 
 <div align="center">
-   <img src="./public/Landing.png" alt="Contact Section Light Mode" width="75%" /><br/>
+   <img src="./public/Landing.png" alt="Contact Section Light Mode" width="75%" />
+    <hr/>
    
   
   <div>
@@ -93,10 +94,14 @@ Your app will be available at: https://intern-portal-6vi7.vercel.app/
 
 > 📸 Add screenshots of your Hero section, Projects grid, and Contact form here to show off your site.
 <div align="center">
-  <img src="./public/Listing.png" alt="Contact Section Light Mode" width="75%" /><br/>
-  <img src="./public/Details.png" alt="Projects Section Dark Mode" width="75%" /><br/>
-  <img src="./public/Apply.png" alt="Projects Section Dark Mode" width="75%" /><br/>
-  <img src="./public/Submit.png" alt="Projects Section Dark Mode" width="75%" /><br/>
+  <img src="./public/Listing.png" alt="Contact Section Light Mode" width="75%" />
+    <hr/>
+  <img src="./public/Details.png" alt="Projects Section Dark Mode" width="75%" />
+    <hr/>
+  <img src="./public/Apply.png" alt="Projects Section Dark Mode" width="75%" />
+    <hr/>
+  <img src="./public/Submit.png" alt="Projects Section Dark Mode" width="75%" />
+    <hr/>
 </div>
 ---
 
